@@ -30,5 +30,5 @@
 	"name" : "LpClientApp",
 	"pools" : [
 		"LpSharedInfo" ],
-	"super" : "PjBrowserApplication",
+	"super" : "PjWebApplication",
 	"type" : "normal" }
