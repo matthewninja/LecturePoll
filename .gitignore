@@ -10,3 +10,4 @@ server/server.js
 
 server/testdb.js
 
+node_modules/
